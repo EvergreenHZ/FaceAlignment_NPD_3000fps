@@ -1,0 +1,5 @@
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/build/CMakeFiles/edit_cache.dir
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/build/CMakeFiles/liblinear.dir
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/build/CMakeFiles/FaceAlignment.dir
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/build/CMakeFiles/lib3000fps.dir
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/build/CMakeFiles/rebuild_cache.dir

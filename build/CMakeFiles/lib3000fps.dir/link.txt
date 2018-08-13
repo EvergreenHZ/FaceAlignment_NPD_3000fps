@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib3000fps.a  CMakeFiles/lib3000fps.dir/src/lbf/rf.cpp.o CMakeFiles/lib3000fps.dir/src/lbf/common.cpp.o CMakeFiles/lib3000fps.dir/src/lbf/lbf.cpp.o
+/usr/bin/ranlib liblib3000fps.a

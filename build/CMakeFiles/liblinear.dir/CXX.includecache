@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/3rdparty/liblinear/linear.cpp
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+stdarg.h
+-
+locale.h
+-
+linear.h
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/3rdparty/liblinear/linear.h
+tron.h
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/3rdparty/liblinear/tron.h
+
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/3rdparty/liblinear/linear.h
+
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/3rdparty/liblinear/tron.cpp
+math.h
+-
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+tron.h
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/3rdparty/liblinear/tron.h
+
+/home/huaizhi/Lazy_Boy_Diary/cross_compilation_android/dav/3rdparty/liblinear/tron.h
+
